@@ -23,11 +23,16 @@
 ### 👩🏻‍💻 I've been posting my personal projects on my blog. Check them out! 
 
 ### 🎖️ Badges that I've gotten so far...
+<p align="left">
+<a href="https://www.credly.com/badges/715e8f7b-7bbe-41be-9d16-1952690f9fac/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Scrum Foundation Professional Certification"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/cfa51d87-4080-48d7-8185-aed6d3c056ed" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-amazon-eks.png" alt="AWS Cloud Quest" width="120" height="120"/> <a>
+<a href="https://www.credly.com/badges/cfa51d87-4080-48d7-8185-aed6d3c056ed" target="_blank" rel="noreferrer"> <img src=".images/well-architected-proficient.png" alt="Oracle Cloud Infrastructure Foundations" width="120" height="120"/> <a>
+</p>
 
 ### 📬 Reach me out 
 
 <a href="https://www.linkedin.com/in/carol-fontana-0a2b571ba/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CarolFontana"/>
  </a>
 
 <br>
