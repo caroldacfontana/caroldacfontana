@@ -24,9 +24,9 @@
 
 ### 🎖️ Badges that I've gotten so far...
 <p align="left">
-<a href="https://www.credly.com/badges/715e8f7b-7bbe-41be-9d16-1952690f9fac/public_url" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-cloud-essentials.png" alt="Scrum Foundation Professional Certification"width="120"height="120"/> <a>
-<a href="https://www.credly.com/badges/cfa51d87-4080-48d7-8185-aed6d3c056ed" target="_blank" rel="noreferrer"> <img src=".images/aws-knowledge-amazon-eks.png" alt="AWS Cloud Quest" width="120" height="120"/> <a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=73A14B455D4C1BC998A2C97521DED60383D013AD6701394934D3274943E295CE" target="_blank" rel="noreferrer"> <img src=".images/well-architected-proficient.png" alt="Oracle Cloud Infrastructure Foundations" width="120" height="120"/> <a>
+<a href="https://www.credly.com/badges/715e8f7b-7bbe-41be-9d16-1952690f9fac/public_url" target="_blank" rel="noreferrer"> <img src=".images/Scrum.png" alt="Scrum Foundation Professional Certification"width="120"height="120"/> <a>
+<a href="https://www.credly.com/badges/cfa51d87-4080-48d7-8185-aed6d3c056ed" target="_blank" rel="noreferrer"> <img src=".images/AWS_cloudquest.png" alt="AWS Cloud Quest" width="120" height="120"/> <a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=73A14B455D4C1BC998A2C97521DED60383D013AD6701394934D3274943E295CE" target="_blank" rel="noreferrer"> <img src=".images/OCI_foundations.png" alt="Oracle Cloud Infrastructure Foundations" width="120" height="120"/> <a>
 </p>
 
 ### 📬 Reach me out 
