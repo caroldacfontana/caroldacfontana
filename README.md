@@ -22,7 +22,7 @@
 ✨<kbd>waste many hours watching funny cat videos </kbd> <br>
 
 ### 👩🏻‍💻 I've been posting my personal projects on my blog w/ tutorials. Check it out! 
-https://caroldacfontana.github.io/blog/
+<a href="https://caroldacfontana.github.io/blog/" target="_blank">Click here to access my blog!</a>
 
 ### 🎖️ Badges that I've gotten so far...
 <p align="left">
