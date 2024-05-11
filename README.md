@@ -22,7 +22,7 @@
 
 
 ### 👩🏻‍💻 I've been posting my personal projects on my blog w/ tutorials. Check it out! 
-<a href="https://caroldacfontana.github.io/blog/"  target="_blank" rel="noreferrer"> <a>
+<a href="https://caroldacfontana.github.io/blog/" a>
 
 ### 🎖️ Badges that I've gotten so far...
 <p align="left">
