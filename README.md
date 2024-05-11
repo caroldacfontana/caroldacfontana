@@ -16,13 +16,13 @@
 👓<kbd>former English teacher </kbd>  <br>
 📖<kbd>Data Science college student </kbd> <br>
 👀<kbd>person with deep interest in Oracle | IaC | Linux </kbd> <br>
+
 ### And I also...
 💖<kbd>love MMORPG games </kbd> <br>
-✨<kbd>cat lover </kbd> <br>
-
+✨<kbd>waste many hours watching funny cat videos </kbd> <br>
 
 ### 👩🏻‍💻 I've been posting my personal projects on my blog w/ tutorials. Check it out! 
-<a href="https://caroldacfontana.github.io/blog/" a>
+https://caroldacfontana.github.io/blog/
 
 ### 🎖️ Badges that I've gotten so far...
 <p align="left">
