@@ -12,15 +12,17 @@
 <br>
 </div>
 
-### Right now I'm working as a DBA, but I'm also a...
+### Currently I'm a Database Admin, but I also am a...
 👓<kbd>former English teacher </kbd>  <br>
-📖<kbd>data science college student </kbd> <br>
-👀<kbd>super excited about oracle, linux, cloud and IaC </kbd> <br>
-💖<kbd>love MMORPGs</kbd> <br>
-✨<kbd>and I've just recently started my IT journey! </kbd> <br>
+📖<kbd>Data Science college student </kbd> <br>
+👀<kbd>person with deep interest in Oracle | IaC | Linux </kbd> <br>
+### And I also...
+💖<kbd>love MMORPG games </kbd> <br>
+✨<kbd>cat lover </kbd> <br>
 
 
-### 👩🏻‍💻 I've been posting my personal projects on my blog. Check them out! 
+### 👩🏻‍💻 I've been posting my personal projects on my blog w/ tutorials. Check it out! 
+<a href="https://caroldacfontana.github.io/blog/"  target="_blank" rel="noreferrer"> <a>
 
 ### 🎖️ Badges that I've gotten so far...
 <p align="left">
@@ -29,7 +31,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=73A14B455D4C1BC998A2C97521DED60383D013AD6701394934D3274943E295CE" target="_blank" rel="noreferrer"> <img src=".images/OCI_foundations.png" alt="Oracle Cloud Infrastructure Foundations" width="120" height="120"/> <a>
 </p>
 
-### 📬 Reach me out 
+### 📬 Reach me out :)
 
 <a href="https://www.linkedin.com/in/carol-fontana-0a2b571ba/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CarolFontana"/>
