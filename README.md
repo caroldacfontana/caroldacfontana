@@ -15,7 +15,7 @@
 ### Currently I'm a Database Admin, but I also am a...
 👓<kbd>former English teacher </kbd>  <br>
 📖<kbd>Data Science college student </kbd> <br>
-👀<kbd>someone with deep interest in Oracle | IaC | Linux </kbd> <br>
+👀<kbd>someone with a deep interest in Oracle | IaC | Linux | Data Engineering </kbd> <br>
 
 ### And I also...
 💖<kbd>love MMORPG games </kbd> <br>
